@@ -7,7 +7,7 @@ const CartItem = ({item}) => {
 
     return (
         <Card>
-            <CardMedia/>
+            <CardMedia className={classes.media}/>
         </Card>
     )
 }
