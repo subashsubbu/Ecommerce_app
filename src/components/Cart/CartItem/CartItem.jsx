@@ -9,6 +9,9 @@ const CartItem = ({ item }) => {
         <Card>
             <CardMedia className={classes.media} />
             <CardContent>
+                <Grid>
+
+                </Grid>
 
             </CardContent>
         </Card>
